@@ -5,17 +5,15 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 ![](/Images/coverPage1.JPG)
 
 ## Data / Model sources for datasets used in this book:
-- *Polymer Manufacturing Process Data*:  
+- *Box-Jenkins Gas Furnace Data*:  
 
-       Originally obtained from https://landing.umetrics.com/downloads-other-downloads (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
-       Dataset also referenced at https://www.academia.edu/38630159/Multivariate_data_analysis_wiki
+       Obtained from https://openmv.net/info/gas-furnace
        
              
-- *Pulp & Paper Manufacturing Process Data*:
+- *Continuously Stirred Tank Reactor (CSTR) Model*:
 
-       Obtained from https://openmv.net. 
+       Obtained from https://github.com/APMonitor/pdc/blob/master/CSTR_Control.ipynb. 
        
-       Citation: Dayal et al. "Application of feedforward neural networks and partial least squares regression for modelling Kappa number in a continuous Kamyr digester", Pulp and Paper Canada, 95, 1994, p T7-T13.
        
 
 
