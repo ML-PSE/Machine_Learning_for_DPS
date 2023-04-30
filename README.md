@@ -4,7 +4,7 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 
 ![](/Images/coverPage1.JPG)
 
-## Data sources for datasets used in this book:
+## Data / Model sources for datasets used in this book:
 - *Polymer Manufacturing Process Data*:  
 
        Originally obtained from https://landing.umetrics.com/downloads-other-downloads (unfortunately this link no longer seems to work; data file is provided in the respective folder in this repository). 
