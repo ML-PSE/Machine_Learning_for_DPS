@@ -41,6 +41,8 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 
        Obtained from https://homes.esat.kuleuven.be/~smc/daisy/daisydata.html’
        
+       Citation: De Moor B.L.R. (ed.), DaISy: Database for the Identification of Systems, Department of Electrical Engineering, ESAT/STADIUS, KU Leuven, Belgium, URL: http://homes.esat.kuleuven.be/~smc/daisy/.
+       
        
        
        
