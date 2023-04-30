@@ -19,7 +19,3 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 
 
 
-
-
-
-SIPPY License: https://github.com/CPCLAB-UNIPI/SIPPY/blob/master/LICENSE
