@@ -12,7 +12,7 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
              
 - *Continuously Stirred Tank Reactor (CSTR) Model*:
 
-       Obtained from https://github.com/APMonitor/pdc/blob/master/CSTR_Control.ipynb. 
+       Obtained and adapted from https://github.com/APMonitor/pdc/blob/master/CSTR_Control.ipynb. 
        
        
 
