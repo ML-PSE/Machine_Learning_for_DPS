@@ -36,9 +36,9 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
        Citation: De Moor B.L.R. (ed.), DaISy: Database for the Identification of Systems, Department of Electrical Engineering, ESAT/STADIUS, KU Leuven, Belgium, URL: http://homes.esat.kuleuven.be/~smc/daisy/. 
        
              
-- *Multiphase Flow Facility  Data*:
+- *Tennessee Eastman Process Data*:
 
-       Obtained from XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+       Available at https://github.com/camaramm/tennessee-eastman-profBraatz 
        
              
 - *Liquid-saturated Steam Heat Exchanger Data*:
