@@ -84,7 +84,7 @@ r_train = pMatrix_train_centered.T - np.dot(Jn.T, Xn_train)
 Q_train = [np.dot(r_train[:,i], r_train[:,i]) for i in range(pMatrix_train_centered.shape[0])] 
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-##              Control Limits (99 percentile empirical approach)
+##              Control Limits (99th percentile empirical approach)
 ## %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Ts2_CL = np.percentile(Ts2_train, 99)
 Te2_CL = np.percentile(Te2_train, 99)
