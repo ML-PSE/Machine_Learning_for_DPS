@@ -5,7 +5,7 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 ![](/Images/coverPage1.JPG)
 
 ## Book links:
-- *Google Play*: ????????????????????
+- *Google Play*: https://play.google.com/store/books/details?id=fBC-EAAAQBAJ
 - *LeanPub*: ??????
 
 ## Data / Model sources for datasets used in this book:
