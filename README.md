@@ -6,7 +6,7 @@ Code repository for the book 'Machine Learning in Python for Dynamic Process Sys
 
 ## Book links:
 - *Google Play*: https://play.google.com/store/books/details?id=fBC-EAAAQBAJ
-- *LeanPub*: ??????
+- *LeanPub*: https://leanpub.com/ML-Python-for-DPS
 
 ## Data / Model sources for datasets used in this book:
 - *Box-Jenkins Gas Furnace Data*:  
