@@ -113,8 +113,8 @@ plt.grid(which='both', axis='y', linestyle='--')
 ## %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Ntest = FaultyData.shape[0]
 
-pMatrix_test = np.zeros((Ntest-2*l, l*(m+r)))
-for i in range(l,Ntest-l):
+pMatrix_test = np.zeros((Ntest-l+1, l*(m+r)))
+for i in range(l,Ntest+l):
     pMatrix_test[i-l,:] = np.hstack((yData_test[i-l:i,:].flatten(), uData_test[i-l:i,:].flatten()))
 
 pMatrix_test_centered = p_scaler.transform(pMatrix_test)
