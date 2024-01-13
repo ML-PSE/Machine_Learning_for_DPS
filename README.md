@@ -2,7 +2,7 @@
 
 Code repository for the book 'Machine Learning in Python for Dynamic Process Systems'
 
-![](/Images/coverPage1.JPG)
+![](/Images/Book2_CoverPage.JPG)
 
 ## Book links:
 - *Google Play*: https://play.google.com/store/books/details?id=fBC-EAAAQBAJ
